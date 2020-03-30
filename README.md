@@ -4,5 +4,5 @@
 例如：
 
 ```
-https://cdn.jsdelivr.net/gh/666WXY666/cdn/avatar/avatar.jpg
+https://cdn.jsdelivr.net/gh/666WXY666/cdn/img/avatar/avatar.jpg
 ```
