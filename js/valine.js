@@ -2321,13 +2321,13 @@
     }
     , function(e, t) {
         function aru(index){
-          return "<img id='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/emoji/aru/" + index + ".png'>";
+          return "<img id='emoji' src='https://cdn.jsdelivr.net/gh/666WXY666/cdn/img/emoji/aru/" + index + ".png'>";
         }
         function tieba(str){
-          return "<img id='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/emoji/tieba/" + str + ".png'>";
+          return "<img id='emoji' src='https://cdn.jsdelivr.net/gh/666WXY666/cdn/img/emoji/tieba/" + str + ".png'>";
         }
         function qq(str) {
-          return "<img id='emoji' src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/emoji/qq/" + str + ".gif'>";
+          return "<img id='emoji' src='https://cdn.jsdelivr.net/gh/666WXY666/cdn/img/emoji/qq/" + str + ".gif'>";
         }
         e.exports = {
             aru151: aru(151),
